@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChuckNorrisJokes</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="name">Name</string>
+</resources>
